@@ -1,0 +1,328 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0
+D SMD 0 ohm resistor 1/4W [UPL 1.001]
+K SMD 0 ohm resistor 1/4W r R UPL 1.001
+$ENDCMP
+#
+$CMP 1
+D SMD 1 ohm resistor 1/4W [UPL 1.002]
+K SMD 1 ohm resistor 1/4W r R UPL 1.002
+$ENDCMP
+#
+$CMP 10
+D SMD 10 ohm resistor 1/4W [UPL 1.004]
+K SMD 10 ohm resistor 1/4W r R UPL 1.004
+$ENDCMP
+#
+$CMP 100
+D SMD 100 ohm resistor 1/4W [UPL 1.016]
+K SMD 100 ohm resistor 1/4W r R UPL 1.016
+$ENDCMP
+#
+$CMP 100K
+D SMD 100K ohm resistor 1/4W [UPL 1.052]
+K SMD 100K ohm resistor 1/4W r R UPL 1.052
+$ENDCMP
+#
+$CMP 10K
+D SMD 10K ohm resistor 1/4W [UPL 1.040]
+K SMD 10K ohm resistor 1/4W r R UPL 1.040
+$ENDCMP
+#
+$CMP 12
+D SMD 12 ohm resistor 1/4W [UPL 1.005]
+K SMD 12 ohm resistor 1/4W r R UPL 1.005
+$ENDCMP
+#
+$CMP 120
+D SMD 120 ohm resistor 1/4W [UPL 1.017]
+K SMD 120 ohm resistor 1/4W r R UPL 1.017
+$ENDCMP
+#
+$CMP 120K
+D SMD 120K ohm resistor 1/4W [UPL 1.053]
+K SMD 120K ohm resistor 1/4W r R UPL 1.053
+$ENDCMP
+#
+$CMP 12K
+D SMD 12K ohm resistor 1/4W [UPL 1.041]
+K SMD 12K ohm resistor 1/4W r R UPL 1.041
+$ENDCMP
+#
+$CMP 15
+D SMD 15 ohm resistor 1/4W [UPL 1.006]
+K SMD 15 ohm resistor 1/4W r R UPL 1.006
+$ENDCMP
+#
+$CMP 150
+D SMD 150 ohm resistor 1/4W [UPL 1.018]
+K SMD 150 ohm resistor 1/4W r R UPL 1.018
+$ENDCMP
+#
+$CMP 150K
+D SMD 150K ohm resistor 1/4W [UPL 1.054]
+K SMD 150K ohm resistor 1/4W r R UPL 1.054
+$ENDCMP
+#
+$CMP 15K
+D SMD 15K ohm resistor 1/4W [UPL 1.042]
+K SMD 15K ohm resistor 1/4W r R UPL 1.042
+$ENDCMP
+#
+$CMP 1K
+D SMD 1K ohm resistor 1/4W [UPL 1.028]
+K SMD 1K ohm resistor 1/4W r R UPL 1.028
+$ENDCMP
+#
+$CMP 1K2
+D SMD 1.2K ohm resistor 1/4W [UPL 1.029]
+K SMD 1.2K ohm resistor 1/4W r R UPL 1.029
+$ENDCMP
+#
+$CMP 1K5
+D SMD 1.5K ohm resistor 1/4W [UPL 1.030]
+K SMD 1.5K ohm resistor 1/4W r R UPL 1.030
+$ENDCMP
+#
+$CMP 1M
+D SMD 1M ohm resistor 1/4W [UPL 1.064]
+K SMD 1M ohm resistor 1/4W r R UPL 1.064
+$ENDCMP
+#
+$CMP 20
+D SMD 20 ohm resistor 1/4W [UPL 1.007]
+K SMD 20 ohm resistor 1/4W r R UPL 1.007
+$ENDCMP
+#
+$CMP 200
+D SMD 200 ohm resistor 1/4W [UPL 1.019]
+K SMD 200 ohm resistor 1/4W r R UPL 1.019
+$ENDCMP
+#
+$CMP 200K
+D SMD 200K ohm resistor 1/4W [UPL 1.055]
+K SMD 200K ohm resistor 1/4W r R UPL 1.055
+$ENDCMP
+#
+$CMP 20K
+D SMD 20K ohm resistor 1/4W [UPL 1.043]
+K SMD 20K ohm resistor 1/4W r R UPL 1.043
+$ENDCMP
+#
+$CMP 22
+D SMD 22 ohm resistor 1/4W [UPL 1.008]
+K SMD 22 ohm resistor 1/4W r R UPL 1.008
+$ENDCMP
+#
+$CMP 220
+D SMD 220 ohm resistor 1/4W [UPL 1.020]
+K SMD 220 ohm resistor 1/4W r R UPL 1.020
+$ENDCMP
+#
+$CMP 220K
+D SMD 220K ohm resistor 1/4W [UPL 1.056]
+K SMD 220K ohm resistor 1/4W r R UPL 1.056
+$ENDCMP
+#
+$CMP 22K
+D SMD 22K ohm resistor 1/4W [UPL 1.044]
+K SMD 22K ohm resistor 1/4W r R UPL 1.044
+$ENDCMP
+#
+$CMP 27
+D SMD 27 ohm resistor 1/4W [UPL 1.009]
+K SMD 27 ohm resistor 1/4W r R UPL 1.009
+$ENDCMP
+#
+$CMP 270
+D SMD 270 ohm resistor 1/4W [UPL 1.021]
+K SMD 270 ohm resistor 1/4W r R UPL 1.021
+$ENDCMP
+#
+$CMP 270K
+D SMD 270K ohm resistor 1/4W [UPL 1.057]
+K SMD 270K ohm resistor 1/4W r R UPL 1.057
+$ENDCMP
+#
+$CMP 27K
+D SMD 27K ohm resistor 1/4W [UPL 1.045]
+K SMD 27K ohm resistor 1/4W r R UPL 1.045
+$ENDCMP
+#
+$CMP 2K
+D SMD 2K ohm resistor 1/4W [UPL 1.031]
+K SMD 2K ohm resistor 1/4W r R UPL 1.031
+$ENDCMP
+#
+$CMP 2K2
+D SMD 2K2 ohm resistor 1/4W [UPL 1.032]
+K SMD 2K2 ohm resistor 1/4W r R UPL 1.032
+$ENDCMP
+#
+$CMP 2K7
+D SMD 2K7 ohm resistor 1/4W [UPL 1.033]
+K SMD 2K7 ohm resistor 1/4W r R UPL 1.033
+$ENDCMP
+#
+$CMP 33
+D SMD 33 ohm resistor 1/4W [UPL 1.010]
+K SMD 33 ohm resistor 1/4W r R UPL 1.010
+$ENDCMP
+#
+$CMP 330
+D SMD 330 ohm resistor 1/4W [UPL 1.022]
+K SMD 330 ohm resistor 1/4W r R UPL 1.022
+$ENDCMP
+#
+$CMP 330K
+D SMD 330K ohm resistor 1/4W [UPL 1.058]
+K SMD 330K ohm resistor 1/4W r R UPL 1.058
+$ENDCMP
+#
+$CMP 33K
+D SMD 33K ohm resistor 1/4W [UPL 1.046]
+K SMD 33K ohm resistor 1/4W r R UPL 1.046
+$ENDCMP
+#
+$CMP 39
+D SMD 39 ohm resistor 1/4W [UPL 1.011]
+K SMD 39 ohm resistor 1/4W r R UPL 1.011
+$ENDCMP
+#
+$CMP 390
+D SMD 390 ohm resistor 1/4W [UPL 1.023]
+K SMD 390 ohm resistor 1/4W r R UPL 1.023
+$ENDCMP
+#
+$CMP 390K
+D SMD 390K ohm resistor 1/4W [UPL 1.059]
+K SMD 390K ohm resistor 1/4W r R UPL 1.059
+$ENDCMP
+#
+$CMP 39K
+D SMD 39K ohm resistor 1/4W [UPL 1.047]
+K SMD 39K ohm resistor 1/4W r R UPL 1.047
+$ENDCMP
+#
+$CMP 3K3
+D SMD 3K3 ohm resistor 1/4W [UPL 1.034]
+K SMD 3K3 ohm resistor 1/4W r R UPL 1.034
+$ENDCMP
+#
+$CMP 3K9
+D SMD 3K9 ohm resistor 1/4W [UPL 1.035]
+K SMD 3K9 ohm resistor 1/4W r R UPL 1.035
+$ENDCMP
+#
+$CMP 4.7
+D SMD 4.7 ohm resistor 1/4W [UPL 1.003]
+K SMD 4.7 ohm resistor 1/4W UPL r R 1.003
+$ENDCMP
+#
+$CMP 47
+D SMD 47 ohm resistor 1/4W [UPL 1.012]
+K SMD 47 ohm resistor 1/4W r R UPL 1.012
+$ENDCMP
+#
+$CMP 470
+D SMD 470 ohm resistor 1/4W [UPL 1.024]
+K SMD 470 ohm resistor 1/4W r R UPL 1.024
+$ENDCMP
+#
+$CMP 470K
+D SMD 470K ohm resistor 1/4W [UPL 1.060]
+K SMD 470K ohm resistor 1/4W r R UPL 1.060
+$ENDCMP
+#
+$CMP 47K
+D SMD 47K ohm resistor 1/4W [UPL 1.048]
+K SMD 47K ohm resistor 1/4W r R UPL 1.048
+$ENDCMP
+#
+$CMP 4K7
+D SMD 4K7 ohm resistor 1/4W [UPL 1.036]
+K SMD 4K7 ohm resistor 1/4W r R UPL 1.036
+$ENDCMP
+#
+$CMP 62
+D SMD 62 ohm resistor 1/4W [UPL 1.013]
+K SMD 62 ohm resistor 1/4W r R UPL 1.013
+$ENDCMP
+#
+$CMP 620
+D SMD 620 ohm resistor 1/4W [UPL 1.025]
+K SMD 620 ohm resistor 1/4W r R UPL 1.025
+$ENDCMP
+#
+$CMP 620K
+D SMD 620K ohm resistor 1/4W [UPL 1.061]
+K SMD 620K ohm resistor 1/4W r R UPL 1.061
+$ENDCMP
+#
+$CMP 62K
+D SMD 62K ohm resistor 1/4W [UPL 1.049]
+K SMD 62K ohm resistor 1/4W r R UPL 1.049
+$ENDCMP
+#
+$CMP 68
+D SMD 68 ohm resistor 1/4W [UPL 1.014]
+K SMD 68 ohm resistor 1/4W r R UPL 1.014
+$ENDCMP
+#
+$CMP 680
+D SMD 680 ohm resistor 1/4W [UPL 1.026]
+K SMD 680 ohm resistor 1/4W r R UPL 1.026
+$ENDCMP
+#
+$CMP 680K
+D SMD 680K ohm resistor 1/4W [UPL 1.062]
+K SMD 680K ohm resistor 1/4W r R UPL 1.062
+$ENDCMP
+#
+$CMP 68K
+D SMD 68K ohm resistor 1/4W [UPL 1.050]
+K SMD 68K ohm resistor 1/4W r R UPL 1.050
+$ENDCMP
+#
+$CMP 6K2
+D SMD 6.2K ohm resistor 1/4W [UPL 1.037]
+K SMD 6.2K ohm resistor 1/4W r R UPL 1.037
+$ENDCMP
+#
+$CMP 6K8
+D SMD 6.8K ohm resistor 1/4W [UPL 1.038]
+K SMD 6.8K ohm resistor 1/4W r R UPL 1.038
+$ENDCMP
+#
+$CMP 82
+D SMD 82 ohm resistor 1/4W [UPL 1.015]
+K SMD 82 ohm resistor 1/4W r R UPL 1.015
+$ENDCMP
+#
+$CMP 820
+D SMD 820 ohm resistor 1/4W [UPL 1.027]
+K SMD 820 ohm resistor 1/4W r R UPL 1.027
+$ENDCMP
+#
+$CMP 820K
+D SMD 820K ohm resistor 1/4W [UPL 1.063]
+K SMD 820K ohm resistor 1/4W r R UPL 1.063
+$ENDCMP
+#
+$CMP 82K
+D SMD 82K ohm resistor 1/4W [UPL 1.051]
+K SMD 82K ohm resistor 1/4W r R UPL 1.051
+$ENDCMP
+#
+$CMP 8K2
+D SMD 8.2K ohm resistor 1/4W [UPL 1.039]
+K SMD 8.2K ohm resistor 1/4W r R UPL 1.039
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+#End Doc Library

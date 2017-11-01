@@ -1,0 +1,143 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 12V_z
+D Zener Diode, 12V, 1W [UPL 4.010]
+K Zener Diode 12V d D UPL 4.010
+$ENDCMP
+#
+$CMP 15V_z
+D Zener Diode, 15V, 1W [UPL 4.011]
+K Zener Diode 15V d D UPL 4.011
+$ENDCMP
+#
+$CMP 18V_z
+D Zener Diode, 18V, 1W [UPL 4.012]
+K Zener Diode 18V d D UPL 4.012
+$ENDCMP
+#
+$CMP 20V_z
+D Zener Diode, 20V, 1W [UPL 4.013]
+K Zener Diode 20V d D UPL 4.013
+$ENDCMP
+#
+$CMP 24V_z
+D Zener Diode, 24V, 1W [UPL 4.014]
+K Zener Diode 24V d D UPL 4.014
+$ENDCMP
+#
+$CMP 3.9V_z
+D Zener Diode, 3.9V, 1W [UPL 4.005]
+K Zener Diode 3.9V d D UPL 4.005
+$ENDCMP
+#
+$CMP 4.7V_z
+D Zener Diode, 4.7V, 1W [UPL 4.006]
+K Zener Diode 4.7V d D UPL 4.006
+$ENDCMP
+#
+$CMP 5.1V_z
+D Zener Diode, 5.1V, 1W [UPL 4.007]
+K Zener Diode 5.1V d D UPL 4.007
+$ENDCMP
+#
+$CMP 6.2V_z
+D Zener Diode, 6.2V, 1W [UPL 4.008]
+K Zener Diode 6.2V d D UPL 4.008
+$ENDCMP
+#
+$CMP 9.1V_z
+D Zener Diode, 9.1V, 1W [UPL 4.009]
+K Zener Diode 9.1V d D UPL 4.009
+$ENDCMP
+#
+$CMP D_Schottky
+D Schottky Diode, 40V, 1A [UPL 4.004]
+K Schottky Diode 40V 1A d D UPL 4.004
+$ENDCMP
+#
+$CMP General_Purpose_Diode
+D General Purpose Diode, 75V, 150mA [UPL 4.001]
+K General Purpose Diode 75V 150mA UPL 4.001 d D
+$ENDCMP
+#
+$CMP IRF9520
+D MOSFE Transistor, P-CH 100V, 6.8A [UPL 4.024]
+K MOSFET Transistor P-CH 100V 6.8A UPL 4.024
+$ENDCMP
+#
+$CMP LED_RGB
+D Common Cathode RGB LED [UPL 4.018]
+K RGB LED Common Cathode UPL 4.018
+$ENDCMP
+#
+$CMP LED_g
+D LED, green [UPL 4.017]
+K LED green UPL 4.017
+$ENDCMP
+#
+$CMP LED_r
+D LED, red [UPL 4.015]
+K LED red UPL 4.015
+$ENDCMP
+#
+$CMP LED_y
+D LED, amber [UPL 4.016]
+K LED amber UPL 4.016
+$ENDCMP
+#
+$CMP MMBT2222
+D Bipolar Transistor NPN 40V 0.6A MMBT2222 [UPL 4.019]
+K Bipolar Transistor NPN 40V 0.6A MMBT2222 UPL 4.019
+$ENDCMP
+#
+$CMP MMBT2907
+D Bipolar Transistor PNP 60V 0.6A MMBT2907 [UPL 4.020]
+K Bipolar Transistor PNP 60V 0.6A MMBT2907 UPL 4.020
+$ENDCMP
+#
+$CMP MMBT3904
+D Bipolar Transistor NPN 40V 0.2A MMBT3904 [UPL 4.021]
+K Bipolar Transistor NPN 40V 0.2A MMBT3904 UPL 4.021
+$ENDCMP
+#
+$CMP MMBT3906
+D Bipolar Transistor PNP 40V 0.2A MMBT3906 [UPL 4.022]
+K Bipolar Transistor PNP 40V 0.2A MMBT3906 UPL 4.022
+$ENDCMP
+#
+$CMP Rectifier_Diode_1A
+D Rectifier Diode, 50V, 1A [UPL 4.002]
+K Rectifier Diode, 50V, 1A UPL 4.002 d D
+$ENDCMP
+#
+$CMP Rectifier_Diode_3A
+D Rectifier Diode, 400V, 3A [UPL 4.003]
+K Rectifier Diode, 400V, 3A UPL 4.003 d D
+$ENDCMP
+#
+$CMP STGP10NC60KD
+D IGB Transistor, 20A 600V [UPL 4.028]
+K IGBT Transistor 20A 600V UPL 4.028
+$ENDCMP
+#
+$CMP STGP5H60DF
+D IGB Transistor, 10A 600V [UPL 4.027]
+K IGBT Transistor 10A 600V UPL 4.027
+$ENDCMP
+#
+$CMP TIP120
+D Bipolar Transistor NPN, 50V 5A TIP120 [UPL 4.023]
+K Bipolar Transistor NPN 50V 5A TIP120 UPL 4.023
+$ENDCMP
+#
+$CMP VN2106
+D MOSFE Transistor, N-CH 60V 300mA [UPL 4.025]
+K MOSFET Transistor N-CH 60V 300mA UPL 4.025
+$ENDCMP
+#
+$CMP VP2106
+D MOSFE Transistor, P-CH 60V 250mA [UPL 4.026]
+K MOSFET Transistor P-CH 60V 250mA UPL 4.026
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.022uF_c
+D SMD 0.022uF ceramic capacitor 50V [UPL 2.008]
+K SMD ceramic capacitor 50V 0.022F UPL 2.008 c C
+$ENDCMP
+#
+$CMP 0.1uF_c
+D SMD 0.1uF ceramic capacitor 50V [UPL 2.009]
+K SMD ceramic capacitor 50V 0.1uF UPL 2.009 c C
+$ENDCMP
+#
+$CMP 0.47uF_c
+D SMD 0.47uF ceramic capacitor 50V [UPL 2.010]
+K SMD ceramic capacitor 50V 0.47uF UPL 2.010 c C
+$ENDCMP
+#
+$CMP 10000pF_c
+D SMD 10000pF ceramic capacitor 50V [UPL 2.007]
+K SMD ceramic capacitor 50V 10000pF UPL 2.007 c C
+$ENDCMP
+#
+$CMP 1000pF_c
+D SMD 1000pF ceramic capacitor 50V [UPL 2.006]
+K SMD ceramic capacitor 50V 1000pF UPL 2.006 c C
+$ENDCMP
+#
+$CMP 1000uF_e
+D THT 1000uF electrolytic capacitor 50V [UPL 2.018]
+K THT 1000uF electrolytic capacitor 50V UPL 2.018 c C
+$ENDCMP
+#
+$CMP 100pF_c
+D SMD 100pF ceramic capacitor 50V [UPL 2.004]
+K SMD ceramic capacitor 50V 100pF UPL 2.004 c C
+$ENDCMP
+#
+$CMP 100uF_e
+D THT 100uF electrolytic capacitor 50V [UPL 2.015]
+K THT 100uF electrolytic capacitor 50V UPL 2.015 c C
+$ENDCMP
+#
+$CMP 10pF_c
+D SMD 10pF ceramic capacitor 50V [UPL 2.001]
+K SMD ceramic capacitor 50V 10pF UPL 2.001 c C
+$ENDCMP
+#
+$CMP 10uF_e
+D THT 10uF electrolytic capacitor 50V [UPL 2.014]
+K THT 10uF electrolytic capacitor 50V UPL 2.014 c C
+$ENDCMP
+#
+$CMP 10uF_t
+D SMD 10uF tantalum capacitor 25V [UPL 2.021]
+K SMD 10uF tantalum capacitor 25V UPL 2.021 c C
+$ENDCMP
+#
+$CMP 1uF_t
+D SMD 1uF tantalum capacitor 25V [UPL 2.019]
+K SMD 1uF tantalum capacitor 25V UPL 2.019 c C
+$ENDCMP
+#
+$CMP 2.2uF_e
+D THT 2.2uF electrolytic capacitor 50V [UPL 2.011]
+K THT 2.2uF electrolytic capacitor 50V UPL 2.011 c C
+$ENDCMP
+#
+$CMP 220uF_e
+D THT 220uF electrolytic capacitor 50V [UPL 2.016]
+K THT 220uF electrolytic capacitor 50V UPL 2.016 c C
+$ENDCMP
+#
+$CMP 22pF_c
+D SMD 22pF ceramic capacitor 50V [UPL 2.002]
+K SMD ceramic capacitor 50V 22pF UPL 2.002 c C
+$ENDCMP
+#
+$CMP 22uF_t
+D SMD 22uF tantalum capacitor 25V [UPL 2.022]
+K SMD 22uF tantalum capacitor 25V UPL 2.022 c C
+$ENDCMP
+#
+$CMP 3.3uF_e
+D THT 3.3uF electrolytic capacitor 50V [UPL 2.012]
+K THT 3.3uF electrolytic capacitor 50V UPL 2.012 c C
+$ENDCMP
+#
+$CMP 33uF_t
+D SMD 33uF tantalum capacitor 25V [UPL 2.023]
+K SMD 33uF tantalum capacitor 25V UPL 2.023 c C
+$ENDCMP
+#
+$CMP 4.7uF_e
+D THT 4.7uF electrolytic capacitor 50V [UPL 2.013]
+K THT 4.7uF electrolytic capacitor 50V UPL 2.013 c C
+$ENDCMP
+#
+$CMP 4.7uF_t
+D SMD 4.7uF tantalum capacitor 25V [UPL 2.020]
+K SMD 4.7uF tantalum capacitor 25V UPL 2.020 c C
+$ENDCMP
+#
+$CMP 470pF_c
+D SMD 470pF ceramic capacitor 50V [UPL 2.005]
+K SMD ceramic capacitor 50V 470pF UPL 2.005 c C
+$ENDCMP
+#
+$CMP 470uF_e
+D THT 470uF electrolytic capacitor 50V [UPL 2.017]
+K THT 470uF electrolytic capacitor 50V UPL 2.017 c C
+$ENDCMP
+#
+$CMP 47pF_c
+D SMD 47pF ceramic capacitor 50V [UPL 2.003]
+K SMD ceramic capacitor 50V 47pF UPL 2.003 c C
+$ENDCMP
+#
+$CMP 47uF_t
+D SMD 47uF tantalum capacitor 25V [UPL 2.024]
+K SMD 47uF tantalum capacitor 25V UPL 2.024 c C
+$ENDCMP
+#
+#End Doc Library

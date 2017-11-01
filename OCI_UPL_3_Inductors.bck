@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100uH
+D SMD 100uH Inductor, 340mA [UPL 3.010]
+K SMD 100uH Inductor 340mA UPL 3.010 l L
+$ENDCMP
+#
+$CMP 10mH
+D THT 10mH Inductor, 170mA [UPL 3.015]
+K THT 10mH Inductor 170mA UPL 3.015 l L
+$ENDCMP
+#
+$CMP 10uH
+D SMD 10uH Inductor, 900mA [UPL 3.004]
+K SMD 10uH Inductor 900mA UPL 3.004 l L
+$ENDCMP
+#
+$CMP 15uH
+D SMD 15uH Inductor, 850mA [UPL 3.005]
+K SMD 15uH Inductor 850mA UPL 3.005 l L
+$ENDCMP
+#
+$CMP 1mH
+D SMD 1mH Inductor, 100mA [UPL 3.011]
+K SMD 1mH Inductor 100mA UPL 3.011 l L
+$ENDCMP
+#
+$CMP 1uH
+D SMD 1uH Inductor, 900mA [UPL 3.001]
+K SMD 1uH Inductor 900mA UPL 3.001 l L
+$ENDCMP
+#
+$CMP 2.2mH
+D THT 2.2mH Inductor, 360mA [UPL 3.012]
+K THT 2.2mH Inductor 360mA UPL 3.012 l L
+$ENDCMP
+#
+$CMP 2.2uH
+D SMD 2.2uH Inductor, 2A [UPL 3.002]
+K SMD 2.2uH Inductor 2A UPL 3.002 l L
+$ENDCMP
+#
+$CMP 22uH
+D SMD 22uH Inductor, 780mA [UPL 3.006]
+K SMD 22uH Inductor 780mA UPL 3.006 l L
+$ENDCMP
+#
+$CMP 33uH
+D SMD 33uH Inductor, 570mA [UPL 3.007]
+K SMD 33uH Inductor 570mA UPL 3.007 l L
+$ENDCMP
+#
+$CMP 4.7mH
+D THT 4.7mH Inductor, 240mA [UPL 3.013]
+K THT 4.7mH Inductor 240mA UPL 3.013 l L
+$ENDCMP
+#
+$CMP 4.7uH
+D SMD 4.7uH Inductor, 1.01A [UPL 3.003]
+K SMD 4.7uH Inductor 1.01A UPL 3.003 l L
+$ENDCMP
+#
+$CMP 47mH
+D THT 47mH Inductor, 80mA [UPL 3.016]
+K THT 47mH Inductor 80mA UPL 3.016 l L
+$ENDCMP
+#
+$CMP 47uH
+D SMD 47uH Inductor, 480mA [UPL 3.008]
+K SMD 47uH Inductor 480mA UPL 3.008 l L
+$ENDCMP
+#
+$CMP 6.8mH
+D THT 6.8mH Inductor, 200mA [UPL 3.014]
+K THT 6.8mH Inductor 200mA UPL 3.014 l L
+$ENDCMP
+#
+$CMP 68uH
+D SMD 68uH Inductor, 410mA [UPL 3.009]
+K SMD 68uH Inductor 410mA UPL 3.009 l L
+$ENDCMP
+#
+#End Doc Library

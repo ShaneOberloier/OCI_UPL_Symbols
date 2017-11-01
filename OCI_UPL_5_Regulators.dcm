@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP -10V_Reg
+D Voltage Regulator -10V, 1.5A L7912CV [UPL 5.007]
+K Voltage Regulator -10V 1.5A L7912CV UPL 5.007
+$ENDCMP
+#
+$CMP -5V_Reg
+D Voltage Regulator -5V, 1.5A L7905ACV [UPL 5.006]
+K Voltage Regulator -5V 1.5A L7905ACV UPL 5.006
+$ENDCMP
+#
+$CMP 12V_Reg
+D Voltage Regulator 12V, 1.5A L7812CV [UPL 5.004]
+K Voltage Regulator 12V 1.5A L7812CV UPL 5.004
+$ENDCMP
+#
+$CMP 24V_Reg
+D Voltage Regulator 24V, 1.5A L7824CV [UPL 5.005]
+K Voltage Regulator 24V 1.5A L7824CV UPL 5.005
+$ENDCMP
+#
+$CMP 3.3V_Reg
+D Voltage Regulator 3.3V 800mA LD1117V33 [UPL 5.001]
+K Voltage Regulator 3.3V 800mA LD1117V33 UPL 5.001
+$ENDCMP
+#
+$CMP 5V_Reg
+D Voltage Regulator 5V, 1.5A L7805CV [UPL 5.002]
+K Voltage Regulator 5V 1.5A L7805CV UPL 5.002
+$ENDCMP
+#
+$CMP 9V_Reg
+D Voltage Regulator 9V, 1.5A L7809CV [UPL 5.003]
+K Voltage Regulator 9V 1.5A L7809CV UPL 5.003
+$ENDCMP
+#
+$CMP Current_Reg
+D Current Controller, 1V-40V LM334Z/NOPB [UPL 5.010]
+K Current Controller 1V-40V LM334Z/NOPB UPL 5.010
+$ENDCMP
+#
+$CMP MC34063ABN
+D Buck Boost Controller, 1.5A max [UPL 5.009]
+K Buck Boost Controller 1.5A max UPL 5.009
+$ENDCMP
+#
+$CMP Var_V_Reg
+D Voltage Regulator, Variable 1.2V - 37V, 1.5A LM317T [UPL 5.008]
+K Voltage Regulator Variable 1.2V - 37V 1.5A LM317T UPL 5.008
+$ENDCMP
+#
+#End Doc Library
