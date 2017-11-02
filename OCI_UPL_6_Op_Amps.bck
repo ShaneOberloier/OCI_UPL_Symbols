@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA126
+D Instrumentation Amplifier 36V, 200KHz INA126PA [UPL 6.004]
+K Instrumentation Amplifier 36V 200KHz INA126PA UPL 6.004 Op Amp
+$ENDCMP
+#
+$CMP LM675T
+D Power Op Amp, 60V, 5.5MHz LM675 [UPL 6.009]
+K Power Op Amp 60V 5.5MHz LM675 UPL 6.009
+$ENDCMP
+#
+$CMP LM7171
+D Very High Speed Op Amp, 36V, 200MHz LM7171 [UPL 6.005]
+K Very High Speed Op Amp 36V 200MHz LM7171 UPL 6.005
+$ENDCMP
+#
+$CMP LM741
+D Op Amp General Purpose 36V, 1.8MHz LM741 [UPL 6.001]
+K Op Amp General Purpose 36V 1.8MHz LM741 UPL 6.001
+$ENDCMP
+#
+$CMP MCP6002
+D Dual Op Amp 6V 1MHZ (Rail to Rail) MCP6002-I/P [UPL 6.002]
+K Dual Op Amp 6V 1MHZ Rail MCP6002-I/P UPL 6.002
+$ENDCMP
+#
+$CMP MCP6004
+D Quad Op Amp 6V 1MHZ (Rail to Rail) MCP6004-I/P [UPL 6.003]
+K Quad Op Amp 6V 1MHZ Rail MCP6004-I/P UPL 6.003
+$ENDCMP
+#
+$CMP NE5532P
+D Low Noise Dual Op Amp, 15V, 10MHz NE5532P [UPL 6.007]
+K Low Noise Dual Op Amp 15V 10MHz NE5532P UPL 6.007
+$ENDCMP
+#
+$CMP TL082IP
+D JFET Input Op Amp, 36V, 3MHz [UPL 6.008]
+K JFET Input Op Amp 36V 3MHz UPL 6.008
+$ENDCMP
+#
+#End Doc Library

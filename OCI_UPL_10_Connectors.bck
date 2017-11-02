@@ -1,0 +1,353 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5.5mm_Barrel
+D 5.5mm Barrel Jack, 5A [UPL 10.008]
+K 5.5mm Barrel Jack 5A UPL 10.008
+$ENDCMP
+#
+$CMP FEM_01X01
+D Header Female 1 [UPL 10.002]
+K Header Female 1 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X02
+D Header Female 2 [UPL 10.002]
+K Header Female 2 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X03
+D Header Female 3 [UPL 10.002]
+K Header Female 3 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X04
+D Header Female 4 [UPL 10.002]
+K Header Female 4 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X05
+D Header Female 5 [UPL 10.002]
+K Header Female 5 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X06
+D Header Female 6 [UPL 10.002]
+K Header Female 6 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X07
+D Header Female 7 [UPL 10.002]
+K Header Female 7 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X08
+D Header Female 8 [UPL 10.002]
+K Header Female 8 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X09
+D Header Female 9 [UPL 10.002]
+K Header Female 9 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X10
+D Header Female 10 [UPL 10.002]
+K Header Female 10 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X11
+D Header Female 11 [UPL 10.002]
+K Header Female 11 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X12
+D Header Female 12 [UPL 10.002]
+K Header Female 12 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X13
+D Header Female 13 [UPL 10.002]
+K Header Female 13 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X14
+D Header Female 14 [UPL 10.002]
+K Header Female 14 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X15
+D Header Female 15 [UPL 10.002]
+K Header Female 15 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X16
+D Header Female 16 [UPL 10.002]
+K Header Female 16 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X17
+D Header Female 17 [UPL 10.002]
+K Header Female 17 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X18
+D Header Female 18 [UPL 10.002]
+K Header Female 18 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X19
+D Header Female 19 [UPL 10.002]
+K Header Female 19 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X20
+D Header Female 20 [UPL 10.002]
+K Header Female 20 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X21
+D Header Female 21 [UPL 10.002]
+K Header Female 21 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X22
+D Header Female 22 [UPL 10.002]
+K Header Female 22 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X23
+D Header Female 23 [UPL 10.002]
+K Header Female 23 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X24
+D Header Female 24 [UPL 10.002]
+K Header Female 24 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X25
+D Header Female 25 [UPL 10.002]
+K Header Female 25 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X26
+D Header Female 26 [UPL 10.002]
+K Header Female 26 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X27
+D Header Female 27 [UPL 10.002]
+K Header Female 27 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X28
+D Header Female 28 [UPL 10.002]
+K Header Female 28 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X29
+D Header Female 29 [UPL 10.002]
+K Header Female 29 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X30
+D Header Female 30 [UPL 10.002]
+K Header Female 30 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X31
+D Header Female 31 [UPL 10.002]
+K Header Female 31 pin UPL 10.002
+$ENDCMP
+#
+$CMP FEM_01X32
+D Header Female 32 [UPL 10.002]
+K Header Female 32 pin UPL 10.002
+$ENDCMP
+#
+$CMP Head_Phone_Jack
+D Head Phone Jack, 2.46MM [UPL 10.007]
+K Head Phone Jack 2.46MM UPL 10.007
+$ENDCMP
+#
+$CMP MALE_01X01
+D Header Male 1 [UPL 10.001]
+K Header Male 1 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X02
+D Header Male 2 [UPL 10.001]
+K Header Male 2 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X03
+D Header Male 3 [UPL 10.001]
+K Header Male 3 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X04
+D Header Male 4 [UPL 10.001]
+K Header Male 4 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X05
+D Header Male 5 [UPL 10.001]
+K Header Male 5 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X06
+D Header Male 6 [UPL 10.001]
+K Header Male 6 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X07
+D Header Male 7 [UPL 10.001]
+K Header Male 7 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X08
+D Header Male 8 [UPL 10.001]
+K Header Male 8 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X09
+D Header Male 9 [UPL 10.001]
+K Header Male 9 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X10
+D Header Male 10 [UPL 10.001]
+K Header Male 10 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X11
+D Header Male 11 [UPL 10.001]
+K Header Male 11 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X12
+D Header Male 12 [UPL 10.001]
+K Header Male 12 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X13
+D Header Male 13 [UPL 10.001]
+K Header Male 13 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X14
+D Header Male 14 [UPL 10.001]
+K Header Male 14 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X15
+D Header Male 15 [UPL 10.001]
+K Header Male 15 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X16
+D Header Male 16 [UPL 10.001]
+K Header Male 16 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X17
+D Header Male 17 [UPL 10.001]
+K Header Male 17 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X18
+D Header Male 18 [UPL 10.001]
+K Header Male 18 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X19
+D Header Male 19 [UPL 10.001]
+K Header Male 19 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X20
+D Header Male 20 [UPL 10.001]
+K Header Male 20 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X21
+D Header Male 21 [UPL 10.001]
+K Header Male 21 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X22
+D Header Male 22 [UPL 10.001]
+K Header Male 22 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X23
+D Header Male 23 [UPL 10.001]
+K Header Male 23 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X24
+D Header Male 24 [UPL 10.001]
+K Header Male 24 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X25
+D Header Male 25 [UPL 10.001]
+K Header Male 25 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X26
+D Header Male 26 [UPL 10.001]
+K Header Male 26 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X27
+D Header Male 27 [UPL 10.001]
+K Header Male 27 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X28
+D Header Male 28 [UPL 10.001]
+K Header Male 28 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X29
+D Header Male 29 [UPL 10.001]
+K Header Male 29 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X30
+D Header Male 30 [UPL 10.001]
+K Header Male 30 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X31
+D Header Male 31 [UPL 10.001]
+K Header Male 31 pin UPL 10.001
+$ENDCMP
+#
+$CMP MALE_01X32
+D Header Male 32 [UPL 10.001]
+K Header Male 32 pin UPL 10.001
+$ENDCMP
+#
+$CMP RJ45_RA
+D RJ45 Connector, Right Angle [UPL 10.004]
+K RJ45 Connector Right Angle UPL 10.004
+$ENDCMP
+#
+$CMP RJ45_VERT
+D RJ45 Connector, Vertical [UPL 10.005]
+K RJ45 Connector Vertical UPL 10.005
+$ENDCMP
+#
+$CMP Term_2
+D Terminal Block, 2 Pos [UPL 10.003]
+K Screw Terminal Block 2 Pos UPL 10.003
+$ENDCMP
+#
+$CMP USB_B_CONN
+D USB Type B Connector [UPL 10.006]
+K USB Type B Connector UPL 10.006
+$ENDCMP
+#
+#End Doc Library

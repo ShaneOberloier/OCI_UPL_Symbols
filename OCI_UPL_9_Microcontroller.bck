@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24LC1025
+D EEPROM, 1MB, 400KHz 24LC1025-I/P [UPL 9.004]
+K EEPROM 1MB 400KHz 24LC1025-I/P UPL 9.004
+$ENDCMP
+#
+$CMP ATMEGA328
+D Microcontroller, 8 bit, 32KB flash ATMEGA328-PU  [UPL 9.002]
+K Microcontroller 8 bit 32KB flash ATMEGA328-PU  UPL 9.002
+$ENDCMP
+#
+$CMP ATMEGA32A
+D Microcontroller, 8 bit, 32KB flash ATMEGA32A-PU [UPL 9.003]
+K Microcontroller 8 bit 32KB flash ATMEGA32A-PU UPL 9.003
+$ENDCMP
+#
+$CMP ATTINY85
+D Microcontroller, 8 bit, 8KB flash ATTINY85-20PU  [UPL 9.001]
+K Microcontroller 8 bit 8KB flash ATTINY85-20PU  UPL 9.001
+$ENDCMP
+#
+$CMP FT232RL
+D USB to UART Serial Converter FT232RL-REEL [UPL 9.005]
+K USB to UART Serial Converter FT232RL-REEL UPL 9.005
+$ENDCMP
+#
+#End Doc Library

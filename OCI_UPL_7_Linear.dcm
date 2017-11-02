@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4046BE
+D Phase-Lock Loop Oscillator CD4046BE [UPL 7.003]
+K Phase Lock Loop Oscillator CD4046BE UPL 7.003
+$ENDCMP
+#
+$CMP LM2907N
+D Frequency to Voltage Converter, 10KHz max LM2907N-8/NOPB [UPL 7.004]
+K Frequency to Voltage Converter 10KHz max LM2907N-8/NOPB UPL 7.004
+$ENDCMP
+#
+$CMP SA556N
+D 555 Timer Oscillation Circuit (dual) 100KHz SA556N [UPL 7.002]
+K 555 Timer Oscillation Circuit dual 100KHz SA556N UPL 7.002
+$ENDCMP
+#
+$CMP SE555P
+D 555 Timer Oscillation Circuit (single) 100KHz SE555P [UPL 7.001]
+K 555 Timer Oscillation Circuit single 100KHz SE555P UPL 7.001
+$ENDCMP
+#
+#End Doc Library
