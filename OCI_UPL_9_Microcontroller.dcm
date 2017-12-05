@@ -30,4 +30,9 @@ D CAN Transceiver, High Speed MCP2551-I/P [UPL 9.006]
 K CAN Transceiver High Speed MCP2551-I/P UPL 9.006
 $ENDCMP
 #
+$CMP P82B96P
+D Dual Bidirectional Bus Buffer, P82B96P [UPL 9.007]
+K Dual Bidirectional Bus Buffer P82B96P UPL 9.007
+$ENDCMP
+#
 #End Doc Library

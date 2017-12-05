@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTV-817
+D Opto-Isolator 5KV [UPL 12.001]
+K Opto-Isolator 5KV UPL 12.001
+F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
+$ENDCMP
+#
+#End Doc Library

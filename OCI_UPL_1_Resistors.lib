@@ -121,6 +121,24 @@ X ~ 2 150 0 50 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 10k_t
+#
+DEF 10k_t RV 0 40 Y N 1 F N
+F0 "RV" 0 -80 50 H V C CNN
+F1 "10k_t" 0 0 50 H V C CNN
+F2 "OCI_UPL_FOOTPRINTS:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp" 0 -150 30 H I C CNN
+F3 "https://www.digikey.com/short/qt5j3q" 0 -200 30 H I C CNN
+F4 "1-1623849-0 " 0 -250 30 H I C CNN "Part #"
+F5 "1.070" 0 -300 30 H I C CNN "UPL #"
+DRAW
+S -100 40 100 -40 0 1 0 N
+P 3 0 1 0  0 40  -20 60  20 60 F
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 0 150 100 D 40 40 1 1 P
+X 3 3 150 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 12
 #
 DEF 12 R 0 0 N Y 1 F N

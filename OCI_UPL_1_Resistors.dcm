@@ -30,6 +30,11 @@ D SMD 10K ohm resistor 1/4W [UPL 1.040]
 K SMD 10K ohm resistor 1/4W r R UPL 1.040
 $ENDCMP
 #
+$CMP 10k_t
+D THT 10K ohm trimmer potentiometer 25 turn [UPL 1.070]
+K THT 10K ohm trimmer potentiometer 25 turn UPL 1.070
+$ENDCMP
+#
 $CMP 12
 D SMD 12 ohm resistor 1/4W [UPL 1.005]
 K SMD 12 ohm resistor 1/4W r R UPL 1.005

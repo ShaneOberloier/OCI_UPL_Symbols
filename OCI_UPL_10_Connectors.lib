@@ -3557,12 +3557,12 @@ ENDDEF
 # Term_2
 #
 DEF Term_2 U 0 40 Y Y 1 F N
-F0 "U" 150 50 60 H V C CNN
+F0 "J" 150 50 60 H V C CNN
 F1 "Term_2" 250 150 60 H V C CNN
 F2 "OCI_UPL_FOOTPRINTS:TerminalBlock_Pheonix_MKDS1.5-2pol" 850 200 30 H I C CNN
 F3 "https://www.digikey.com/short/q7wbhd" 850 50 30 H I C CNN
 F4 "1935161" 850 100 30 H I C CNN "Part #"
-F5 "https://www.digikey.com/short/q7wbhd" 900 150 30 H I C CNN "UPL #"
+F5 "10.003" 900 150 30 H I C CNN "UPL #"
 DRAW
 C 0 0 50 0 1 0 N
 C 0 150 50 0 1 0 N

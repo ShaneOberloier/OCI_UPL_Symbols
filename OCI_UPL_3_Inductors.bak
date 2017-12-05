@@ -235,9 +235,9 @@ DEF 47mH L 0 40 N N 1 F N
 F0 "L" -50 0 50 V V C CNN
 F1 "47mH" 100 0 50 V V C CNN
 F2 "OCI_UPL_FOOTPRINTS:THT_Inductor_ls_5mm_diam_9mm" 200 0 30 V I C CNN
-F3 "https://www.digikey.com/short/q75ffj" -150 0 30 V I C CNN
-F4 "RLB9012-103KL" -100 0 30 V I C CNN "Part #"
-F5 "3.015" 250 0 30 V I C CNN "UPL #"
+F3 "https://www.digikey.com/short/q75ffp" -150 0 30 V I C CNN
+F4 "RLB9012-473KL" -100 0 30 V I C CNN "Part #"
+F5 "3.016" 250 0 30 V I C CNN "UPL #"
 DRAW
 A 0 -150 50 -889 889 0 1 0 N 1 -199 1 -100
 A 0 -49 51 -889 889 0 1 0 N 1 -99 1 2

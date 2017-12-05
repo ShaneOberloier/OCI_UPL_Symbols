@@ -5,6 +5,11 @@ D 5.5mm Barrel Jack, 5A [UPL 10.008]
 K 5.5mm Barrel Jack 5A UPL 10.008
 $ENDCMP
 #
+$CMP DB9_FEM
+D D-Sub connector, 9 pin female [UPL 10.009]
+K D-Sub connector 9 pin female UPL 10.009
+$ENDCMP
+#
 $CMP FEM_01X01
 D Header Female 1 [UPL 10.002]
 K Header Female 1 pin UPL 10.002

@@ -221,6 +221,30 @@ X A 2 200 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# D_Schot_HC
+#
+DEF D_Schot_HC D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "D_Schot_HC" 0 -100 50 H V C CNN
+F2 "OCI_UPL_FOOTPRINTS:Resistor_Horizontal_RM30mm" 0 -200 30 H I C CNN
+F3 "https://www.digikey.com/short/q31cmt" 0 150 30 H I C CNN
+F4 "15SQ045TR" 0 200 30 H I C CNN "Part #"
+F5 "4.030" 0 -250 30 H I C CNN "UPL #"
+$FPLIST
+ D-Pak_TO252AA
+ Diode_*
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 3 0 1 0  50 50  -50 0  50 -50 F
+P 6 0 1 8  -75 25  -75 50  -50 50  -50 -50  -25 -50  -25 -25 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # D_Schottky
 #
 DEF D_Schottky D 0 40 N N 1 F N

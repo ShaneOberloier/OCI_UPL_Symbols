@@ -25,4 +25,9 @@ D USB to UART Serial Converter FT232RL-REEL [UPL 9.005]
 K USB to UART Serial Converter FT232RL-REEL UPL 9.005
 $ENDCMP
 #
+$CMP MCP2551
+D CAN Transceiver, High Speed MCP2551-I/P [UPL 9.006]
+K CAN Transceiver High Speed MCP2551-I/P UPL 9.006
+$ENDCMP
+#
 #End Doc Library

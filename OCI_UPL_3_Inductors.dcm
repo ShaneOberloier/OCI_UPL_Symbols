@@ -45,6 +45,11 @@ D SMD 22uH Inductor, 780mA [UPL 3.006]
 K SMD 22uH Inductor 780mA UPL 3.006 l L
 $ENDCMP
 #
+$CMP 27uH
+D SMD 27uH Inductor, 5.36A [UPL 3.017]
+K SMD 27uH Inductor 5.36A UPL 3.017 l L
+$ENDCMP
+#
 $CMP 33uH
 D SMD 33uH Inductor, 570mA [UPL 3.007]
 K SMD 33uH Inductor 570mA UPL 3.007 l L

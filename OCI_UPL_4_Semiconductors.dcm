@@ -50,6 +50,11 @@ D Zener Diode, 9.1V, 1W [UPL 4.009]
 K Zener Diode 9.1V d D UPL 4.009
 $ENDCMP
 #
+$CMP D_Schot_HC
+D Schottky Diode, 45V, 15A [UPL 4.030]
+K Schottky Diode 45V 15A d D UPL 4.030
+$ENDCMP
+#
 $CMP D_Schottky
 D Schottky Diode, 40V, 1A [UPL 4.004]
 K Schottky Diode 40V 1A d D UPL 4.004
