@@ -5,4 +5,9 @@ D Blade Fuse Holder [UPL 11.003]
 K Blade Fuse Holder UPL 11.003
 $ENDCMP
 #
+$CMP PB
+D Pushbutton SPST NO [UPL 11.013]
+K switch pb Pushbutton SPST NO UPL 11.013
+$ENDCMP
+#
 #End Doc Library

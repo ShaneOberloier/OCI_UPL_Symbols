@@ -20,6 +20,11 @@ D Microcontroller, 8 bit, 8KB flash ATTINY85-20PU  [UPL 9.001]
 K Microcontroller 8 bit 8KB flash ATTINY85-20PU  UPL 9.001
 $ENDCMP
 #
+$CMP DS1307+
+D I2C Real Time Clock [UPL 9.008]
+K I2C Real Time Clock UPL 9.008
+$ENDCMP
+#
 $CMP FT232RL
 D USB to UART Serial Converter FT232RL-REEL [UPL 9.005]
 K USB to UART Serial Converter FT232RL-REEL UPL 9.005

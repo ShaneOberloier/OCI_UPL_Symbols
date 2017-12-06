@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 32.768kHz
+D 32.768 kHz Crystal [UPL 12.003]
+K 32.768 kHz Crystal UPL 12.003
+$ENDCMP
+#
 $CMP LTV-817
 D Opto-Isolator 5KV [UPL 12.001]
 K Opto-Isolator 5KV UPL 12.001

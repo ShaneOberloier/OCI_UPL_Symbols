@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 32.768kHz
+#
+DEF 32.768kHz Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "32.768kHz" 0 -150 50 H V C CNN
+F2 "OCI_UPL_FOOTPRINTS:Crystal_Round_Vertical_2mm" 0 -250 30 H I C CNN
+F3 "https://www.digikey.com/short/qt58hr" 0 -300 30 H I C CNN
+F4 "AB38T-32.768KHZ" 0 200 30 H I C CNN "Part #"
+F5 "12.003" 0 250 30 H I C CNN "UPL #"
+$FPLIST
+ Crystal_*
+$ENDFPLIST
+DRAW
+S -50 100 50 -100 0 1 12 N
+P 2 0 1 12  -100 -50  -100 50 N
+P 2 0 1 12  100 -50  100 50 N
+X 1 1 -150 0 50 R 40 40 1 1 P
+X 2 2 150 0 50 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # LTV-817
 #
 DEF LTV-817 U 0 40 Y Y 1 F N
